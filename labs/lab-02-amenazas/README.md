@@ -9,7 +9,7 @@ Reconocer e identificar que datos tomaron los hackers de una cadena de hoteles.
 - Tipos de datos de la organización
 
 ## Desarrollo
-Identificar que datos tomaron los hackers o como se pudo obtner acceso a la base de datos de la cadena de hoteles.
+Identificar que datos tomaron los hackers o como se pudo obtener acceso a la base de datos de la cadena de hoteles.
 
 ## Evidencias
 - Capturas almacenadas en labs/lab-02-amenazas/evidencias/
